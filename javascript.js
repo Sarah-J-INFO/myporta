@@ -18,7 +18,21 @@ document.addEventListener("DOMContentLoaded", () => {
         "Te acompano al ritmo de la musica imaginaria de mi cabeza",
         "Eso paquito, eso paquito",
         "Pon la musica que quieras, yo agarro el ritmo como si la escuchara",
-        "Ete flow tu no lo tiene"
+        "Ete flow tu no lo tiene,
+        "🎤Y mi corazón idiota siempre brilla más que el sol...",
+        "🎤¡Tú dices 'no', pero tienes los ojos de una persiana americana!",
+        "🎤Rayando el sol, desesperación... ¡Es más fácil llegar al sol que a tu corazón!",
+        "🎤Si le das más poder al poder, más duro te van a venir a joder.",
+        "🎤Suelta el listón de tu pelo, desvanece el vestido sobre tu cuerpo...",
+        "🎤Amor prohibido murmuran por las calles... ¡porque somos de distintas sociedades!",
+        "🎤Y la Chona se mueve, y la gente le grita: ¡No te pases, Chona!",
+        "🎤Procura coquetearme más... y no reparo de lo que te pueda pasar.",
+        "🎤Ya lo ves, la vida es así... tú te vas y yo me quedo aquí.",
+        "🎤Querida... ¡hazlo por quien más quieras tú, yo te lo pido por Dios!",
+        "🎤Así que corre, corre, corre, corazón... ¡De los dos el más rápido tengo que ser yo!",
+        "🎤Tití me preguntó si tengo muchas novias... ¡hoy tengo a una, mañana a otra!",
+        "🎤Compa, ¿qué le parece esa morra? La que anda bailando sola...",
+        "🎤La mano arriba, cintura sola, da la media vuelta... ¡Dança Kuduro!",
     ];
 
     
