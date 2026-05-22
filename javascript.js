@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "Te acompano al ritmo de la musica imaginaria de mi cabeza",
         "Eso paquito, eso paquito",
         "Pon la musica que quieras, yo agarro el ritmo como si la escuchara",
-        "Ete flow tu no lo tiene,
+        "Ete flow tu no lo tiene",
         "🎤Y mi corazón idiota siempre brilla más que el sol...",
         "🎤¡Tú dices 'no', pero tienes los ojos de una persiana americana!",
         "🎤Rayando el sol, desesperación... ¡Es más fácil llegar al sol que a tu corazón!",
