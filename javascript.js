@@ -32,7 +32,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "🎤Así que corre, corre, corre, corazón... ¡De los dos el más rápido tengo que ser yo!",
         "🎤Tití me preguntó si tengo muchas novias... ¡hoy tengo a una, mañana a otra!",
         "🎤Compa, ¿qué le parece esa morra? La que anda bailando sola...",
-        "🎤La mano arriba, cintura sola, da la media vuelta... ¡Dança Kuduro!",
+        "🎤La mano arriba, cintura sola, da la media vuelta... ¡Dança Kuduro!"
     ];
 
     
