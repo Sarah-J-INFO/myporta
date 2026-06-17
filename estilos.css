@@ -372,3 +372,68 @@ nav a:hover {
         width: 100%;
     }
 }
+
+.lista-canciones {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.cancion {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: rgba(255,255,255,0.12);
+    color: white;
+    padding: 18px 25px;
+    margin-bottom: 12px;
+    border-radius: 12px;
+    transition: 0.3s;
+    backdrop-filter: blur(5px);
+}
+
+.cancion:hover {
+    transform: translateX(10px);
+    background: rgba(255,255,255,0.25);
+}
+
+.numero {
+    font-weight: bold;
+    width: 40px;
+}
+
+.titulo-cancion {
+    flex: 1;
+    text-align: left;
+    margin-left: 20px;
+}
+
+.artista {
+    opacity: 0.8;
+}
+
+.menu.menu-playlist {
+    background-color: #5B3A70;
+}
+
+.playlist {
+    min-height: 100vh;
+    background-image: url("fondo9.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding: 120px 20px 60px;
+    text-align: center;
+}
+
+.titulo-playlist {
+    color: white;
+    font-size: 2.5rem;
+    margin-bottom: 40px;
+    text-shadow: 2px 2px 10px rgba(0,0,0,0.7);
+}
+
+.playlist .boton-red {
+    width: auto;
+    display: inline-block;
+    padding: 15px 25px;
+}
